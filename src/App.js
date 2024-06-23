@@ -92,7 +92,7 @@ function App() {
         <div className="about-content">
           <h1 className="about-heading neon-text">About Me</h1>
           <ul className="about-bullets">
-            <li>Bachelor's Of Science in Data Science</li>
+            <li>Bachelor's of Science in Data Science</li>
             <li>Graduate from the University Of Pittsburgh - Main</li>
             <li>Currently working as a Enterprise Data Analysis</li>
             <li>Strong interests in Development and Analsyis</li>
