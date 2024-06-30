@@ -14,9 +14,9 @@ body {
 }
 
 nav {
-  background-color: #1f1f1f; /* Example background color */
+  background-color: #1f1f1f; 
   width: 100%;
-  padding: 10px 0; /* Adjust padding as needed */
+  padding: 10px 0; 
 }
 
 nav ul {
@@ -24,7 +24,7 @@ nav ul {
   margin: 0;
   padding: 0;
   display: flex;
-  justify-content: center; /* Center items horizontally */
+  justify-content: center; 
 }
 
 nav ul li {
@@ -32,7 +32,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: white; /* Example text color */
+  color: white; 
   text-decoration: none;
 }
 
@@ -52,24 +52,23 @@ nav a {
   white-space: nowrap;
 }
 
-/* Media query for screens up to 768px (typical mobile screens) */
 @media (max-width: 768px) {
   nav {
-    padding: 8px 0; /* Adjust padding for smaller header */
+    padding: 8px 0; 
   }
 
   nav ul {
-    flex-direction: column; /* Stack navigation links vertically */
-    align-items: center; /* Center align navigation links */
+    flex-direction: column; 
+    align-items: center; 
   }
 
   nav li {
-    margin: 10px 0; /* Increase margin for better spacing */
+    margin: 10px 0; 
   }
 
   nav a {
-    font-size: 0.9em; /* Decrease font size for smaller screens */
-    padding: 6px 12px; /* Adjust padding */
+    font-size: 0.9em; 
+    padding: 6px 12px;
   }
 }
 
